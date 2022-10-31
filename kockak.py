@@ -1,3 +1,5 @@
+# https://kozep.sulipy.hu/digitalis_kultura/2022_oktober
+
 import random
 
 N = int(input("Hány alkalommal legyen feldobás? "))
